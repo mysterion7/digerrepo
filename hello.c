@@ -3,6 +3,7 @@
 int main(){
 	
 		printf("Merhaba dunya");
-		printf("Merhaba jupiter");
+		printf("Merhaba insan");
+		
 	return 0;
 }
